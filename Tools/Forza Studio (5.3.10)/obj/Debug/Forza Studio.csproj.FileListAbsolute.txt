@@ -1,0 +1,11 @@
+C:\Development\C# .NET\Forza Studio\bin\Debug\Forza Studio.exe
+C:\Development\C# .NET\Forza Studio\bin\Debug\Forza Studio.pdb
+C:\Development\C# .NET\Forza Studio\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\C# .NET\Forza Studio\obj\Debug\ForzaStudio.Properties.Resources.resources
+C:\Development\C# .NET\Forza Studio\obj\Debug\Forza Studio.csproj.GenerateResource.Cache
+C:\Development\C# .NET\Forza Studio\obj\Debug\Forza Studio.exe
+C:\Development\C# .NET\Forza Studio\obj\Debug\Forza Studio.pdb
+C:\Development\C# .NET\Forza Studio\bin\Debug\xcompress32.dll
+C:\Development\C# .NET\Forza Studio\bin\Debug\xcompress64.dll
+C:\Development\C# .NET\Forza Studio\obj\Debug\ForzaStudio.ForzaStudioForm.resources
+C:\Development\C# .NET\Forza Studio\obj\Debug\DotNetPerls.BetterDialog.resources

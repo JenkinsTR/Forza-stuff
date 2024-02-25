@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<RDF Version="XPR2">
+<Texture
+Name = "XNAME"
+Source = "XLOCATION"
+Format = "D3DFMT_A8R8G8B8"
+Width = "XW"
+Height = "XH"
+/>
+</RDF>
